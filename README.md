@@ -1,5 +1,3 @@
-
-![josssss07's Stats](https://github-readme-stats.vercel.app/api?username=josssss07&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br>
 ![josssss07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=josssss07&theme=tokyonight&hide_border=false).<br>
 <!--![josssss07's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josssss07&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)<br>-->
 
